@@ -1,0 +1,20 @@
+h1{
+    background-color: brown;
+    color: rgb(243, 201, 93);
+    text-align: center;
+    font-family: 'Mynerve', cursive;
+    font-family: 'Gajraj One', cursive;
+    font-style: italic;
+}
+h2{
+    color: rgb(173, 44, 44);
+    text-align: right;
+    font-family: 'Mynerve', cursive;
+}
+h3{
+    color:lime;
+}
+body{
+    background-color: rgb(17, 16, 24);
+    color: rgb(255, 255, 255);
+}
